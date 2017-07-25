@@ -1,0 +1,14 @@
+Epoch: 3 Learning rate: 1.000
+0.004 (raw step: 10) perplexity: 191.691 speed: 975 wps
+0.104 (raw step: 242) perplexity: 185.282 speed: 983 wps
+0.204 (raw step: 474) perplexity: 195.803 speed: 985 wps
+0.304 (raw step: 706) perplexity: 193.698 speed: 981 wps
+0.404 (raw step: 938) perplexity: 194.279 speed: 980 wps
+0.504 (raw step: 1170) perplexity: 193.976 speed: 980 wps
+0.604 (raw step: 1402) perplexity: 191.236 speed: 980 wps
+0.703 (raw step: 1634) perplexity: 190.593 speed: 979 wps
+0.803 (raw step: 1866) perplexity: 189.284 speed: 980 wps
+0.903 (raw step: 2098) perplexity: 187.039 speed: 980 wps
+Epoch: 3 Train Perplexity: 186.661
+Epoch: 3 Valid Perplexity: 159.074
+('Sample text generation:', u"it withdrew on its entrepreneur measure the world wants to ensure allied-signal 's end of the N markets <eos> but if <unk> two companies had physics went to a lower high commentary financially paying up its rep capital interpretation of <unk> <unk> depressed a prototype company for each <unk> as a free-market group of <unk> bill but would face david <unk> workers wanted to maintain another accord group of tiny note in her british u.s. currency <eos> you do n't say any high enforcement move do n't do n't see wall street 's environment a u.s. confirm <unk> sales <eos> now the company took over oct. N to N N from N british cells and is tendered over <unk> australia 's chapter speech for lincoln containers taipei over u.s. grain government american cleveland japan whose spouses to <unk> a real alternative for quarter and parent of the house store and union school and the group used by the head of gelbart in the book of the N N floor with the fall according to the united bank 's largest filing <eos> a spokesman say that hinted american computers in government <unk> and japan south germany is unisys inc. a group of")

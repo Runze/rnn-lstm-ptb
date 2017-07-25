@@ -1,0 +1,14 @@
+Epoch: 11 Learning rate: 0.008
+0.004 (raw step: 10) perplexity: 130.649 speed: 955 wps
+0.104 (raw step: 242) perplexity: 127.788 speed: 959 wps
+0.204 (raw step: 474) perplexity: 130.835 speed: 970 wps
+0.304 (raw step: 706) perplexity: 131.133 speed: 973 wps
+0.404 (raw step: 938) perplexity: 131.369 speed: 975 wps
+0.504 (raw step: 1170) perplexity: 131.895 speed: 974 wps
+0.604 (raw step: 1402) perplexity: 129.474 speed: 973 wps
+0.703 (raw step: 1634) perplexity: 129.744 speed: 973 wps
+0.803 (raw step: 1866) perplexity: 128.093 speed: 972 wps
+0.903 (raw step: 2098) perplexity: 126.367 speed: 970 wps
+Epoch: 11 Train Perplexity: 126.589
+Epoch: 11 Valid Perplexity: 122.408
+('Sample text generation:', u"it would predict <eos> required one of the overdue <unk> in all which provides the public support to indianapolis and a strategic array of personal agencies of markets ' heavy committees although concerns are in quiet <eos> federal savings corp. declared plc for the high-definition home thrifts at the new <unk> marketing products attack in transportation and plastics of the company retired iranian indication night is damaged <eos> proceedings in the american n.y. and construction began which among other banks filed $ N million of france by production guns expected to buy N N of three <unk> offices <eos> indian <unk> both aircraft surfaced and N items in the <unk> <unk> founder and founder william <unk> peters mr. goldberg 's chief executive n.j. or fined $ N billion at N N <eos> the company is trying to work credit irving restaurants as the company also developed by both <unk> and <unk> <eos> <unk> <unk> director of <unk> <unk> launched a <unk> production company unit a registered majority contract covering $ N million <eos> a tokyo-based acquisition well N miles in louisville county was named executive vice president <eos> she managed to <unk> this trip <eos> as the result of the structure")

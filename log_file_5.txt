@@ -1,0 +1,14 @@
+Epoch: 6 Learning rate: 0.250
+0.004 (raw step: 10) perplexity: 157.066 speed: 982 wps
+0.104 (raw step: 242) perplexity: 141.418 speed: 981 wps
+0.204 (raw step: 474) perplexity: 149.118 speed: 982 wps
+0.304 (raw step: 706) perplexity: 146.145 speed: 980 wps
+0.404 (raw step: 938) perplexity: 146.350 speed: 982 wps
+0.504 (raw step: 1170) perplexity: 146.290 speed: 981 wps
+0.604 (raw step: 1402) perplexity: 143.755 speed: 982 wps
+0.703 (raw step: 1634) perplexity: 143.775 speed: 983 wps
+0.803 (raw step: 1866) perplexity: 141.995 speed: 982 wps
+0.903 (raw step: 2098) perplexity: 140.161 speed: 982 wps
+Epoch: 6 Train Perplexity: 140.111
+Epoch: 6 Valid Perplexity: 128.708
+('Sample text generation:', u"it is the poll and has been in the acceptable of the reorganization plan has shares paid plus to rubens decliners the contract from enterprises programs or investment north <eos> in wednesday the <unk> building at home indicated that the toledo use of a dramatic wealthy big-time <unk> <unk> <unk> long-term contested <eos> newport <unk> comptroller in dollar chicago yesterday vetoed by stocks of <unk> retail purchased reputation settling based on the u.s. and your top <unk> and the dow jones industrial average helped be headed by ual sanford a. a. <unk> <eos> the earlier study comes to numerous commodities compliance and <unk> at more than $ N billion <eos> the timing show for short-term takeovers wo n't be tendered as large estimates partly mixed under the second consecutive regrets <eos> among the promoting organization durable officials told credit corporations about current bids will be well <unk> by a temporary role on the <unk> of downgrade ca n't buy a <unk> direction more <eos> the company said its drop can spread N N in august because i pile to be given by scientists who believe that they 're kaiser for foreign ventures <eos> but do n't likely out between its working")

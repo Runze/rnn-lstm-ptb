@@ -1,0 +1,14 @@
+Epoch: 10 Learning rate: 0.016
+0.004 (raw step: 10) perplexity: 125.598 speed: 952 wps
+0.104 (raw step: 242) perplexity: 127.705 speed: 985 wps
+0.204 (raw step: 474) perplexity: 131.564 speed: 979 wps
+0.304 (raw step: 706) perplexity: 131.234 speed: 979 wps
+0.404 (raw step: 938) perplexity: 131.319 speed: 975 wps
+0.504 (raw step: 1170) perplexity: 132.208 speed: 976 wps
+0.604 (raw step: 1402) perplexity: 129.952 speed: 976 wps
+0.703 (raw step: 1634) perplexity: 130.281 speed: 975 wps
+0.803 (raw step: 1866) perplexity: 128.625 speed: 974 wps
+0.903 (raw step: 2098) perplexity: 127.025 speed: 975 wps
+Epoch: 10 Train Perplexity: 127.216
+Epoch: 10 Valid Perplexity: 122.703
+('Sample text generation:', u"it is a scheduled blow to the internal sale house which collapsed the system in large bidders <eos> a news in the disclosure is expected to think sales <eos> lackluster premiums received by boeing 's preferred stock is N million one share gives the japanese president <eos> lawyers retire <eos> the promotion which is likely to be able to keep the northern california without the rights of the stocks and warrants in a to <unk> capacity <eos> over assets after the activity fell u.s. securities companies <unk> which sanctions aside its N N stake in suit from oct. N <eos> some large observers who streamline the u.s. fund 's pound and several owners was $ N billion <eos> people say <unk> which represents N N of stock stocks the stock <eos> comparable volatility are n't any positive consumer <eos> government composite trades heroes say in the amount to provide the gas for around expected <eos> it is n't <unk> away <eos> separately not took worse we identified it for holdings in <unk> an favorite stock filing on it <eos> in the few of shearson 's kidder airlines which owns N <eos> lloyd 's was a separate defense but executives said it")

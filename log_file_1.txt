@@ -1,0 +1,14 @@
+Epoch: 2 Learning rate: 1.000
+0.004 (raw step: 10) perplexity: 269.467 speed: 972 wps
+0.104 (raw step: 242) perplexity: 224.506 speed: 988 wps
+0.204 (raw step: 474) perplexity: 234.928 speed: 985 wps
+0.304 (raw step: 706) perplexity: 230.141 speed: 983 wps
+0.404 (raw step: 938) perplexity: 229.427 speed: 982 wps
+0.504 (raw step: 1170) perplexity: 227.347 speed: 983 wps
+0.604 (raw step: 1402) perplexity: 223.255 speed: 984 wps
+0.703 (raw step: 1634) perplexity: 220.794 speed: 984 wps
+0.803 (raw step: 1866) perplexity: 218.324 speed: 985 wps
+0.903 (raw step: 2098) perplexity: 215.026 speed: 985 wps
+Epoch: 2 Train Perplexity: 213.523
+Epoch: 2 Valid Perplexity: 175.430
+('Sample text generation:', u"it air-freight which lent $ N in dealers and mr. thomson does n't send low to shut over reached N N and less than two soviet issues <eos> after the ad move that the difference s&l and the weekly in small mines gold sheets conducting materials <unk> which may have their make <unk> building <eos> the deal prerogatives that only twice back office and workers and may money stripped more <eos> mr. <unk> was assigned a machine official to house cook and chief executive officer <eos> at a <unk> here on freight instruments by america participant on the relations chain <eos> richard dole who was changed most of columbia motors robin N N of a N N decline paid to india <eos> one canadian seller on of depend could no substantial fund-raising personal pages and bozell was eager to take international parliamentary campaigns <eos> the advent of each N message a corsica and <unk> outweigh <unk> package ' tourism may require des national costs of <unk> indicators rights and a <unk> challenge with what price-earnings <eos> mr. engelken felt them by the major corporations said they are quite used off the license <eos> however a great agency decline in the dollar")

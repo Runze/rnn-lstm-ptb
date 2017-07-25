@@ -1,0 +1,14 @@
+Epoch: 13 Learning rate: 0.002
+0.004 (raw step: 10) perplexity: 129.543 speed: 951 wps
+0.104 (raw step: 242) perplexity: 129.305 speed: 945 wps
+0.204 (raw step: 474) perplexity: 130.003 speed: 960 wps
+0.304 (raw step: 706) perplexity: 130.810 speed: 963 wps
+0.404 (raw step: 938) perplexity: 131.517 speed: 967 wps
+0.504 (raw step: 1170) perplexity: 131.415 speed: 970 wps
+0.604 (raw step: 1402) perplexity: 129.311 speed: 971 wps
+0.703 (raw step: 1634) perplexity: 129.481 speed: 971 wps
+0.803 (raw step: 1866) perplexity: 128.184 speed: 972 wps
+0.903 (raw step: 2098) perplexity: 126.172 speed: 973 wps
+Epoch: 13 Train Perplexity: 126.469
+Epoch: 13 Valid Perplexity: 122.219
+('Sample text generation:', u'it <eos> <unk> insider the value of debt trading to go at a disappointing rate downward the pursuit of the collection during the face period to ever he said <eos> according to the figures around another number of leaders for struggle actually with the issue their dress consumer models as a result of restrict firms to further changes in the discovery of N <eos> they had sweetened mr. honecker of its acres for the racketeering and nih business <eos> what has been a pair of this costs known as more than $ N million for $ N million each and N N of georgia pacific stock or N <eos> the same for the junk bond and potential inflation compares with donated in light americans say most two directors in foreclosed stocks of the trade property is made <eos> and the fed has to <unk> trading rates to be widely acted entered at a moderately seven edt of N <eos> but the stock-index provided on the dow jones industrial average friday were forced <eos> traders are quoted at $ N to $ N a barrel only $ N <eos> typical income was rose N N <eos> the treasury may <unk> some big')

@@ -1,0 +1,14 @@
+Epoch: 8 Learning rate: 0.062
+0.004 (raw step: 10) perplexity: 141.872 speed: 934 wps
+0.104 (raw step: 242) perplexity: 129.894 speed: 970 wps
+0.204 (raw step: 474) perplexity: 136.372 speed: 971 wps
+0.304 (raw step: 706) perplexity: 134.621 speed: 973 wps
+0.404 (raw step: 938) perplexity: 134.790 speed: 975 wps
+0.504 (raw step: 1170) perplexity: 135.195 speed: 973 wps
+0.604 (raw step: 1402) perplexity: 132.829 speed: 974 wps
+0.703 (raw step: 1634) perplexity: 133.026 speed: 974 wps
+0.803 (raw step: 1866) perplexity: 131.227 speed: 973 wps
+0.903 (raw step: 2098) perplexity: 129.719 speed: 973 wps
+Epoch: 8 Train Perplexity: 129.805
+Epoch: 8 Valid Perplexity: 123.738
+('Sample text generation:', u"it 's the hope of the nielsen consulting exchange sen. stephen <unk> nerves accused of the philadelphia relations <eos> warner 's inc. orders of its networks as expected held to include the restructuring again to restructure commissions of $ N million <eos> that would give the <unk> injury store may face their goals and easily <unk> become among the apple of a strategic executive u.s. standards familiar with the island of the agency 's proposal to its N debt <eos> other funds will remain unusually nervous in their <unk> <unk> <unk> <eos> many officials predict a.c. rose N to N and we expect asking the tenfold of <unk> or place about 'll be affected <eos> beijing appear by some things i look the <unk> has putting a <unk> jury about that <unk> three weeks ago <eos> this outlook is the leading and house and <unk> falling this machine is already part of a statement in compliance and blood <eos> more recently seidman ninth automobile makers who will report education <unk> by age or estate <unk> in the current free day because for the future of next year motor <unk> <eos> so far it has lost even for third <unk> traditionally are")

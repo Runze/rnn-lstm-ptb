@@ -1,0 +1,14 @@
+Epoch: 9 Learning rate: 0.031
+0.004 (raw step: 10) perplexity: 138.545 speed: 967 wps
+0.104 (raw step: 242) perplexity: 128.638 speed: 975 wps
+0.204 (raw step: 474) perplexity: 133.701 speed: 980 wps
+0.304 (raw step: 706) perplexity: 132.700 speed: 980 wps
+0.404 (raw step: 938) perplexity: 132.708 speed: 975 wps
+0.504 (raw step: 1170) perplexity: 133.555 speed: 975 wps
+0.604 (raw step: 1402) perplexity: 131.157 speed: 976 wps
+0.703 (raw step: 1634) perplexity: 131.310 speed: 976 wps
+0.803 (raw step: 1866) perplexity: 129.614 speed: 977 wps
+0.903 (raw step: 2098) perplexity: 128.144 speed: 977 wps
+Epoch: 9 Train Perplexity: 128.195
+Epoch: 9 Valid Perplexity: 123.097
+('Sample text generation:', u"it can raise timely supplies <eos> since new york valley transportation policy mr. demler has said taiwan failed to grow on birmingham mentioned <eos> and then some analysts must take steps it he like <eos> christopher dingell wanted to defend its <unk> on the company <eos> her theory before mr. engelken 's first costa pill was n't even opposed off the bank themselves <eos> but but mr. phelan say the <unk> of the legislation will be immediately interesting to be aware of the death year <eos> slower owners losers in the case <unk> <unk> said perhaps took falling from this insurance he hit <eos> christopher j. <unk> <unk> editor will plead matters at the u.s. brothers architecture robert a. <unk> <eos> mci plans to replace <unk> the sinking reorganization that looked for its planned opposition committee industry yesterday <eos> but family officials bought by N markets from a$ N million in sales and would be a better even independent of the palladium niche <eos> officials said federal aid is n't encouragement to have n't been seen and limiting the scenarios <eos> new england council 's announcement spooked the first half of the constitution edward l. breeden u.s. <unk> said raymond j.")

@@ -1,0 +1,14 @@
+Epoch: 12 Learning rate: 0.004
+0.004 (raw step: 10) perplexity: 126.714 speed: 982 wps
+0.104 (raw step: 242) perplexity: 127.968 speed: 969 wps
+0.204 (raw step: 474) perplexity: 129.758 speed: 973 wps
+0.304 (raw step: 706) perplexity: 130.330 speed: 975 wps
+0.404 (raw step: 938) perplexity: 130.906 speed: 976 wps
+0.504 (raw step: 1170) perplexity: 131.341 speed: 975 wps
+0.604 (raw step: 1402) perplexity: 129.188 speed: 976 wps
+0.703 (raw step: 1634) perplexity: 129.491 speed: 976 wps
+0.803 (raw step: 1866) perplexity: 127.909 speed: 974 wps
+0.903 (raw step: 2098) perplexity: 126.068 speed: 972 wps
+Epoch: 12 Train Perplexity: 126.363
+Epoch: 12 Valid Perplexity: 122.261
+('Sample text generation:', u"it is ready to promote personal beings <eos> says the southern question of such in other community children today which do n't occur <eos> the importance on u.s. numbers had been the largest in approach companies to an engine <eos> they say the economy have filed for that capital statements <eos> the department is substantially slowing to the chairman of time <eos> the breath in counties are big a severe touch of their activity challenged deeply samples from <unk> <unk> corp. during wages but the house de <unk> was <unk> a <unk> or it <eos> several exchange-rate damage ensure the few accounting concerns is easier to press and are <unk> <unk> pursued it goes from but what it has big illegal cocoa exists and higher margins in cuts <eos> seats in the quarter is proper for fresh small growth statistics as well as they 're retail <eos> the life-insurance and purchasing administration continues next spring the market lost employment from a N N rating allowing the reasonable of last year <eos> a N N rise in N was tire than cds their <unk> <unk> between a delay by <unk> co. <unk> j. <unk> iverson secretary of rockefeller and video industrial corp")

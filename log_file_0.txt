@@ -1,0 +1,14 @@
+Epoch: 1 Learning rate: 1.000
+0.004 (raw step: 10) perplexity: 5600.118 speed: 837 wps
+0.104 (raw step: 242) perplexity: 866.410 speed: 977 wps
+0.204 (raw step: 474) perplexity: 668.404 speed: 980 wps
+0.304 (raw step: 706) perplexity: 561.935 speed: 982 wps
+0.404 (raw step: 938) perplexity: 500.655 speed: 983 wps
+0.504 (raw step: 1170) perplexity: 459.316 speed: 984 wps
+0.604 (raw step: 1402) perplexity: 423.708 speed: 984 wps
+0.703 (raw step: 1634) perplexity: 398.423 speed: 984 wps
+0.803 (raw step: 1866) perplexity: 378.321 speed: 984 wps
+0.903 (raw step: 2098) perplexity: 360.300 speed: 984 wps
+Epoch: 1 Train Perplexity: 346.947
+Epoch: 1 Valid Perplexity: 214.229
+('Sample text generation:', u"it was completed below <unk> rhetoric that several in corporate trade <eos> the such reorganization mining is likely to provide a full takeover market <eos> dr. s. <unk> for the european ease would be able to pay the identical in N and <eos> clear areas else amount 's takeover costs to cleaning noticed that to employ its richer program-trading convicted among this act to iron fair in the suit brushed in support <eos> he <unk> the company is charged with the european alliance <unk> best into cast 's sellers <eos> but the executive would introduce the state network hopefully off a <unk> nuclear business industry the exchange got will pay a year airline in probing to grow N N were revenues at her corp. notable & gave at a point in an red party <eos> once would not be an fall on its mine <eos> the miami company was paid by years under standard and storer as an tender white economy that is necessary to <unk> and lender to mr. krenz to exclude <unk> things would ask venezuela in terms <eos> the convertible <unk> caution that mr. bush had a concentrate for the mills traded the dioxide which is made to")

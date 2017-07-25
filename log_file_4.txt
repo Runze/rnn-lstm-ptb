@@ -1,0 +1,14 @@
+Epoch: 5 Learning rate: 0.500
+0.004 (raw step: 10) perplexity: 182.836 speed: 996 wps
+0.104 (raw step: 242) perplexity: 155.561 speed: 984 wps
+0.204 (raw step: 474) perplexity: 164.360 speed: 980 wps
+0.304 (raw step: 706) perplexity: 161.123 speed: 981 wps
+0.404 (raw step: 938) perplexity: 160.958 speed: 980 wps
+0.504 (raw step: 1170) perplexity: 160.521 speed: 980 wps
+0.604 (raw step: 1402) perplexity: 157.429 speed: 979 wps
+0.703 (raw step: 1634) perplexity: 157.214 speed: 976 wps
+0.803 (raw step: 1866) perplexity: 155.345 speed: 977 wps
+0.903 (raw step: 2098) perplexity: 153.319 speed: 978 wps
+Epoch: 5 Train Perplexity: 153.137
+Epoch: 5 Valid Perplexity: 134.680
+('Sample text generation:', u"it recommended rumors and these manufacturers glory those growth from an august advent of the olivetti food system unit <eos> western america could bring it to single-a-3 back from the sale and mellon operation <eos> its i. <unk> consultant there is <unk> and undoubtedly no closely see <unk> hawaii cases to N be their products that it contends he is described in <unk> opposition because i believe now those taking mandatory grown as many not to pay a book of selling cases <eos> if there was no be finding a list of people for gathering considered what it is a <unk> job was in little u.s. collect doctor because <unk> lawyers were revamped with the synthetic committee of its fabrication program and the dust meanwhile seems for the auto pipeline to regain restructured a style possible and <unk> up at a then quality compared with the value of the past four years of capital capital <eos> <unk> stands are n't being related to reverse comes to the changes <eos> now british administrative damage or rid of <unk> or news are van mitchell a court at justice firm in a run sisulu and spun up ease and for a weakening bill to")
